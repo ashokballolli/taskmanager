@@ -14,4 +14,5 @@ Please modify the file **"/src/main/resources/application.properties"** for data
 To run the integration tests, please run the following maven command from the current directory
 
 mvn clean install
+
 mvn clean test
